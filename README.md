@@ -1,0 +1,1 @@
+Academic project on the application of neural networks for character recognition (in this case, from 0 to 9). For this we used MATLAB, more specifically the Deep Learning Toolbox.
